@@ -4,6 +4,7 @@
       "name": "Serpme Kahvaltı (+2 Kişi)",
       "catId": 1,
       "catName": "Kahvaltılar",
+      "catImage": "https://www.bizevdeyokuz.com/wp-content/uploads/alacati-kahvalti--1155x675.jpg",
       "existed": false,
       "urlImage": "https://via.placeholder.com/150/92c952",
       "recipes": [
@@ -17,6 +18,7 @@
       "name": "Van Serpme Kahvaltı (+3 Kişi)",
       "catId": 1,
       "catName": "Kahvaltılar",
+      "catImage": "https://www.bizevdeyokuz.com/wp-content/uploads/alacati-kahvalti--1155x675.jpg",
       "existed": false,
       "urlImage": "https://via.placeholder.com/150/771796",
       "recipes": [
@@ -30,6 +32,7 @@
       "name": "Kahvaltı Tabağı (1 Kişi)",
       "catId": 1,
       "catName": "Kahvaltılar",
+      "catImage": "https://www.bizevdeyokuz.com/wp-content/uploads/alacati-kahvalti--1155x675.jpg",
       "existed": false,
       "urlImage": "https://via.placeholder.com/150/24f355",
       "recipes": [
@@ -43,6 +46,7 @@
       "name": "Günün Çorbası",
       "catId": 2,
       "catName": "Çorbalar",
+      "catImage": "https://iasbh.tmgrup.com.tr/feced4/752/395/0/103/1152/708?u=https://isbh.tmgrup.com.tr/sbh/2020/02/18/yayla-corbasi-nasil-yapilir-nefis-kokusuyla-yayla-corbasi-tarifi-1582012855770.jpg",
       "existed": false,
       "urlImage": "https://via.placeholder.com/150/d32776",
       "recipes": [
@@ -57,6 +61,7 @@
       "name": "Mercimek Çorbası",
       "catId": 2,
       "catName": "Çorbalar",
+      "catImage": "https://iasbh.tmgrup.com.tr/feced4/752/395/0/103/1152/708?u=https://isbh.tmgrup.com.tr/sbh/2020/02/18/yayla-corbasi-nasil-yapilir-nefis-kokusuyla-yayla-corbasi-tarifi-1582012855770.jpg",
       "existed": false,
       "urlImage": "https://via.placeholder.com/150/f66b97",
       "recipes": [
@@ -72,6 +77,7 @@
       "name": "Ezogelin Çorbası",
       "catId": 2,
       "catName": "Çorbalar",
+      "catImage": "https://iasbh.tmgrup.com.tr/feced4/752/395/0/103/1152/708?u=https://isbh.tmgrup.com.tr/sbh/2020/02/18/yayla-corbasi-nasil-yapilir-nefis-kokusuyla-yayla-corbasi-tarifi-1582012855770.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/56a8c2",
       "recipes": [
@@ -87,6 +93,7 @@
       "name": "İşkembe Çorbası",
       "catId": 2,
       "catName": "Çorbalar",
+      "catImage": "https://iasbh.tmgrup.com.tr/feced4/752/395/0/103/1152/708?u=https://isbh.tmgrup.com.tr/sbh/2020/02/18/yayla-corbasi-nasil-yapilir-nefis-kokusuyla-yayla-corbasi-tarifi-1582012855770.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/b0f7cc",
       "recipes": [
@@ -102,6 +109,7 @@
       "name": "Kelle Paça Çorbası",
       "catId": 2,
       "catName": "Çorbalar",
+      "catImage": "https://iasbh.tmgrup.com.tr/feced4/752/395/0/103/1152/708?u=https://isbh.tmgrup.com.tr/sbh/2020/02/18/yayla-corbasi-nasil-yapilir-nefis-kokusuyla-yayla-corbasi-tarifi-1582012855770.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/54176f",
       "recipes": [
@@ -117,6 +125,7 @@
       "name": "Spagetthi Napolitana",
       "catId": 3,
       "catName": "Makarnalar",
+      "catImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/01/pesto-soslu-spagetti-tarifi.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/51aa97",
       "recipes": [
@@ -132,6 +141,7 @@
       "name": "Spagetthi Bolognesse",
       "catId": 3,
       "catName": "Makarnalar",
+      "catImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/01/pesto-soslu-spagetti-tarifi.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/810b14",
       "recipes": [
@@ -147,6 +157,7 @@
       "name": "Penne Alfredo",
       "catId": 3,
       "catName": "Makarnalar",
+      "catImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/01/pesto-soslu-spagetti-tarifi.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/1ee8a4",
       "recipes": [
@@ -162,6 +173,7 @@
       "name": "Penne Arabiata",
       "catId": 3,
       "catName": "Makarnalar",
+      "catImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/01/pesto-soslu-spagetti-tarifi.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/66b7d2",
       "recipes": [
@@ -177,6 +189,7 @@
       "name": "Tortellini",
       "catId": 3,
       "catName": "Makarnalar",
+      "catImage": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/01/pesto-soslu-spagetti-tarifi.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/197d29",
       "recipes": [
@@ -192,6 +205,7 @@
       "name": "Pizza Margherita",
       "catId": 4,
       "catName": "Pizzalar",
+      "catImage": "https://lh3.googleusercontent.com/Cq-2FhY2lPpziLrhenu5rfbfQvy0nFinTgVGXDBemoMR2wcJ4aughSS08blLmTAH3IjLnVbn=w1080-h608-p-no-v0",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/61a65",
       "recipes": [
@@ -207,6 +221,7 @@
       "name": "Pizza 4 Quesos",
       "catId": 4,
       "catName": "Pizzalar",
+      "catImage": "https://lh3.googleusercontent.com/Cq-2FhY2lPpziLrhenu5rfbfQvy0nFinTgVGXDBemoMR2wcJ4aughSS08blLmTAH3IjLnVbn=w1080-h608-p-no-v0",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/f9cee5",
       "recipes": [
@@ -222,6 +237,7 @@
       "name": "Pizza Vegeteriana",
       "catId": 4,
       "catName": "Pizzalar",
+      "catImage": "https://lh3.googleusercontent.com/Cq-2FhY2lPpziLrhenu5rfbfQvy0nFinTgVGXDBemoMR2wcJ4aughSS08blLmTAH3IjLnVbn=w1080-h608-p-no-v0",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/fdf73e",
       "recipes": [
@@ -237,6 +253,7 @@
       "name": "Ali Nazik",
       "catId": 5,
       "catName": "Kebaplar",
+      "catImage": "https://cdn.tasteatlas.com/images/dishes/3ab81ec46f604f85bcc3cc51fd17c446.jpg?w=600&h=450",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/9c184f",
       "recipes": [
@@ -251,6 +268,7 @@
       "name": "Kuzu Kaburga",
       "catId": 5,
       "catName": "Kebaplar",
+      "catImage": "https://cdn.tasteatlas.com/images/dishes/3ab81ec46f604f85bcc3cc51fd17c446.jpg?w=600&h=450",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/1fe46f",
       "recipes": [
@@ -266,6 +284,7 @@
       "name": "Çöp Şiş",
       "catId": 5,
       "catName": "Kebaplar",
+      "catImage": "https://cdn.tasteatlas.com/images/dishes/3ab81ec46f604f85bcc3cc51fd17c446.jpg?w=600&h=450",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/56acb2",
       "recipes": [
@@ -281,6 +300,7 @@
       "name": "Kadayıflı Şinitzel",
       "catId": 6,
       "catName": "Piliç Spesiyaller",
+      "catImage": "https://www.yemektekeyifvar.com/img/tarif/mgt/sebze-esliginde-tavuk-izgara.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/8985dc",
       "recipes": [
@@ -295,6 +315,7 @@
       "name": "Soya soslu Tavuk",
       "catId": 6,
       "catName": "Piliç Spesiyaller",
+      "catImage": "https://www.yemektekeyifvar.com/img/tarif/mgt/sebze-esliginde-tavuk-izgara.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/5e12c6",
       "recipes": [
@@ -310,6 +331,7 @@
       "name": "Köri soslu Tavuk",
       "catId": 6,
       "catName": "Piliç Spesiyaller",
+      "catImage": "https://www.yemektekeyifvar.com/img/tarif/mgt/sebze-esliginde-tavuk-izgara.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/45601a",
       "recipes": [
@@ -324,6 +346,7 @@
       "name": "Peynirli Pide",
       "catId": 7,
       "catName": "Pideler",
+      "catImage": "https://www.izmirmekanrehberi.com/images/izmir-mekan-rehberi-slider_2019-05-17_08-49-101-640x576.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/e924e6",
       "recipes": [
@@ -338,6 +361,7 @@
       "name": "Kıymalı Pide",
       "catId": 7,
       "catName": "Pideler",
+      "catImage": "https://www.izmirmekanrehberi.com/images/izmir-mekan-rehberi-slider_2019-05-17_08-49-101-640x576.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/8f209a",
       "recipes": [
@@ -350,6 +374,7 @@
       "name": "Kuşbaşılı Pide",
       "catId": 7,
       "catName": "Pideler",
+      "catImage": "https://www.izmirmekanrehberi.com/images/izmir-mekan-rehberi-slider_2019-05-17_08-49-101-640x576.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/5e3a73",
       "recipes": [
@@ -362,6 +387,7 @@
       "name": "Beğendili Pide",
       "catId": 7,
       "catName": "Pideler",
+      "catImage": "https://www.izmirmekanrehberi.com/images/izmir-mekan-rehberi-slider_2019-05-17_08-49-101-640x576.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/474645",
       "recipes": [
@@ -374,6 +400,7 @@
       "name": "Sebzeli Pide",
       "catId": 7,
       "catName": "Pideler",
+      "catImage": "https://www.izmirmekanrehberi.com/images/izmir-mekan-rehberi-slider_2019-05-17_08-49-101-640x576.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/c984bf",
       "recipes": [
@@ -387,6 +414,7 @@
       "name": "Yoğurtlu Pide",
       "catId": 7,
       "catName": "Pideler",
+      "catImage": "https://www.izmirmekanrehberi.com/images/izmir-mekan-rehberi-slider_2019-05-17_08-49-101-640x576.jpg",
       "existed": true,
       "urlImage": "https://via.placeholder.com/150/602b9e",
       "recipes": [
